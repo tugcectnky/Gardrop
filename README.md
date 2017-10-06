@@ -2,10 +2,12 @@
 Kullanıcıların kendi sanal gardroplarını oluşturabilecekleri ve uygulamada kombin önerileri alabilecekleri, kullandıkları ve kullanmadıkları kıyafetlerin istatistiklerine ulaşabilecekleri akıllı gardrop uygulaması.
 
 1.)Kullanıcı oluşturma
+
 a.)Database'de tutulacak kullanıcı bilgileri [e-posta, şifre, ad soyad, user-id]
 b.)Log-in [e-posta ve şifre ile giriş yapılacak]
 
 2.)Fotoğraf yükleyip kaydetme(özelliklerine göre)
+
 a.)Fotoğraf Yükleme
 [Arayüz]:Kamerayla fotoğraf alıp ekleme, galeriden seçip ekleme. Bu eklemeler, özelliklerin açılır menüden seçilmesiyle yapılacak.Açılır menüdeki bu ögeler arayüzde statik olarak seçilecek.
 İstenen özellikler: 
