@@ -13,7 +13,7 @@ a.)Fotoğraf Yükleme
 İstenen özellikler: 
 Renk, kumaş, sezon, konsept, havadurumu, tür(alt giyim,üst giyim,dış giyim,tek parça,ayakkabı gibi) 
 [Backend-API : Site adı/fotografyukle adresinden gerçekleşecek]: Fotoğraf yükleme olayıyla ilgili fonksiyon yazılacak. Bu fonksiyona parametre olarak alınacaklar:bkz:[Flask File Upload]) :Userid, renk, kumaş, sezon, konsept, tür, havadurumu, foto verisi.
-Bu parametreler database'de kıyafet tablosunda kaydedilecek.Kaydetme esnasında da otomatik kıyafetid oluşturacak(mysql auto increment)
+Bu parametreler database'de kıyafet tablosunda kaydedilecek.Kaydetme esnasında da otomatik kıyafetid oluşturacak.(mysql auto increment)
 
 QRCode ile foto yükleme: Yukarda sayılan özellikler karekodun içerisinde olacak, telefon bunu veriye dönüştürüp api ile gönderecek.
 
