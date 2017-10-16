@@ -1,4 +1,4 @@
-! index.html, login html and log.py coded to learn, not for practical solution. 
+! index.html, login.html and log.py coded to learn, not for practical solution. 
 # Gardrop 
 Kullanıcıların kendi sanal gardroplarını oluşturabilecekleri ve uygulamada kombin önerileri alabilecekleri, kullandıkları ve kullanmadıkları kıyafetlerin istatistiklerine ulaşabilecekleri akıllı gardrop uygulaması.
 
